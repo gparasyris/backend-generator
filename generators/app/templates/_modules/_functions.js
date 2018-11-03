@@ -1,0 +1,5 @@
+
+/*
+ * FUNCTIONS FOR MODULE <%= nameAllCapitalPlural %>
+ *
+ */

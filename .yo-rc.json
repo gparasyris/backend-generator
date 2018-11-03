@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "George Parasyris",
+      "authorEmail": "gparasyris@sventech.io",
+      "authorUrl": ""
+    }
+  }
+}
