@@ -125,7 +125,7 @@ module.exports = class extends Generator {
           /* 2. git init */
           /* 3. git ignore */
           await this.fs.copyTpl(
-            this.templatePath('.gitignore'),
+            this.templatePath('_gitignore'),
             this.destinationPath(`${this.props.name}/.gitignore`), params
           );
           /* 4. dummy readme */

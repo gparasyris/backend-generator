@@ -80,7 +80,6 @@
   },
   "scripts": {
     "pretest": "eslint .",
-    "precommit": "lint-staged",
     "test": "jest"
   },
   "repository": "https://gparasyris@github.com/gparasyris/back-end-challenge.git",
