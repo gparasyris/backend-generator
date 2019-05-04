@@ -2,11 +2,11 @@
   "name": "generator-sventech",
   "version": "0.0.0",
   "description": "This is a scaffold for backend NodeJS server developed by sventech.io accounts",
-  "homepage": "Not available",
+  "homepage": "https://github.com/gparasyris/backend-generator",
   "author": {
     "name": "George Parasyris",
     "email": "gparasyris@sventech.io",
-    "url": ""
+    "url": "https://github.com/gparasyris/backend-generator"
   },
   "files": [
     "generators"
