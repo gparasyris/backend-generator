@@ -1,5 +1,3 @@
-# *** INCOMPLETE *** #
-
 # generator-sventech [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > This is a scaffold for backend NodeJS server developed by sventech.io accounts
 
