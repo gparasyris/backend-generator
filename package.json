@@ -37,6 +37,8 @@
   "dependencies": {
     "asyncawait": "^1.0.7",
     "chalk": "^2.1.0",
+    "just-extend": "4.0.0",
+    "merge": "1.2.1",
     "pluralize": "^7.0.0",
     "yeoman-generator": "^2.0.5",
     "yosay": "^2.0.1"
