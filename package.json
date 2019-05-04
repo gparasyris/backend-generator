@@ -1,6 +1,6 @@
 {
   "name": "generator-sventech",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "This is a scaffold for backend NodeJS server developed by sventech.io accounts",
   "homepage": "https://github.com/gparasyris/backend-generator",
   "author": {
